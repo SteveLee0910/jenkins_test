@@ -12,7 +12,7 @@ scenarios:
       method: GET
       url: http://blazedemo.com/
     - label: reserve
-      method: POST
+      method: POST1
       url: http://blazedemo.com/reserve.php
       body:
         fromPort: Paris
