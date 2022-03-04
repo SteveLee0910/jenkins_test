@@ -11,7 +11,7 @@ scenarios:
     - label: blazedemo
       method: GET
       url: http://blazedemo.com/
-    - label: resrve
+    - label: reserve
       method: POST
       url: http://blazedemo.com/reserve.php
       body:
